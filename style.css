@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.parentone{
+    display: flex;
+    flex-flow: row nowrap;
+    height: 50vh;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    text-align: center;
+    justify-content: flex-end;
+    align-items: flex-end;
+   
+}
+
+.parenttwo{
+    text-align: center;
+    display: flex;
+    flex-flow: column nowrap;
+    height:50vh;
+    background-color: beige;
+    border: 2px solid black;
+
+
+
+}
+
+.one1{
+    background-color: yellow;
+   
+
+}
+.one2{
+    background-color: blue;
+    
+
+}
+.one3{
+    background-color: green;
+    
+
+}
+.two1{
+    background-color: yellow;
+    
+}
+.two2{
+    background-color: blue;
+    
+
+}
+.two3{
+    background-color: green;
+    
+
+}
